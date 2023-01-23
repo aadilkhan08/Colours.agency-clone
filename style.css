@@ -639,6 +639,7 @@ body::-webkit-scrollbar{
     font-size: 15px;
     text-decoration: uppercase;
     color: rgb(69, 64, 64)  ;
+    white-space: nowrap;
 }
 #btm-circle{
     height: 8px;
