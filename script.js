@@ -110,15 +110,15 @@ second
     duration:2
 },`slide`)
 .to("#count-down1",{
-    top:`-100%`,
+    top:`-110%`,
     delay:-1.7
 },`count-down1`)
 .to("#count-down2",{
-    top:`-135%`,
+    top:`-145%`,
     delay:-1.7
 },`count-down1`)
 .to("#count-down3",{
-    top:`-135%`,
+    top:`-145%`,
     delay:-1.7
 },`count-down3`)
 .to("#second-top>h1",{
@@ -137,7 +137,7 @@ second
     delay:1.2
 },`same`)
 .to("#count-down2",{
-    top:`-235%`,
+    top:`-245%`,
     delay:2
 },`count-down1`)
 .to("#center-text",{
@@ -150,7 +150,7 @@ second
     delay:-2.5
 },`centertext`)
 .to("#count-down3",{
-    top:`-260%`,
+    top:`-270%`,
     delay:2
 },`count-down3`)
 .to(".stagger",{
