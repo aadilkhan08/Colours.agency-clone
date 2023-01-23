@@ -93,8 +93,8 @@ body::-webkit-scrollbar{
     transform: translate(-50%,-50%) scale(.5)  ;
 }
 #small-circle{
-    height: 48rem;
-    width: 48rem;
+    height: 48vw;
+    width: 48vw;
     background-color: #fff;
     border-radius: 50%;
     position: absolute;
