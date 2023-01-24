@@ -770,7 +770,7 @@ body::-webkit-scrollbar{
 #inner-sec-btm-box2 h3{
     font-family: digital;
     font-weight: 100;
-    font-size: 15px;
+    font-size: 20px;
     -webkit-text-decoration: uppercase;
             text-decoration: uppercase;
     color: rgb(69, 64, 64)  ;
@@ -1750,10 +1750,10 @@ body::-webkit-scrollbar{
         line-height: 1;
         color: #D6A8B5;
         font-family: n;
-        font-size: 40px;
+        font-size: 175px;
         font-weight: 500;
         position: absolute;
-        top: 20%;
+        top: 40%;
         left: 50%;
         -webkit-transform: translate(-50%,-50%);
             -ms-transform: translate(-50%,-50%);
