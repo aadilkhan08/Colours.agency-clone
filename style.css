@@ -732,6 +732,7 @@ body::-webkit-scrollbar{
     height: 100%;
     width: 20%;
     gap: 20px;
+    white-space: nowrap;
 }
 #btm-circle{
     height: 8px;
@@ -739,6 +740,7 @@ body::-webkit-scrollbar{
     background-color: rgb(69, 64, 64);
     border-radius: 50%;
     margin-left: 10px;
+    white-space: nowrap;
 }
 #inner-sec-btm-box1 h3{
     font-family: digital;
@@ -747,6 +749,7 @@ body::-webkit-scrollbar{
     -webkit-text-decoration: uppercase;
             text-decoration: uppercase;
     color: rgb(69, 64, 64)  ;
+    white-space: nowrap;
 }
 #inner-sec-btm-box2{
     display: -webkit-box;
@@ -761,6 +764,7 @@ body::-webkit-scrollbar{
     border-left: 1px solid #dadada;
     left: 96%;
     position: absolute;
+    white-space: nowrap;
     background-color: #fff;
 }
 #inner-sec-btm-box2 h3{
@@ -770,6 +774,7 @@ body::-webkit-scrollbar{
     -webkit-text-decoration: uppercase;
             text-decoration: uppercase;
     color: rgb(69, 64, 64)  ;
+    white-space: nowrap;
     white-space: nowrap;
 }
 #btm-circle{
@@ -785,6 +790,7 @@ body::-webkit-scrollbar{
     display: flex;
     -webkit-box-align: center;
         -ms-flex-align: center;
+        white-space: nowrap;
             align-items: center;
     height: 100%;
     width: 20%;
@@ -806,6 +812,7 @@ body::-webkit-scrollbar{
     font-weight: 100;
     font-size: 20px;
     -webkit-text-decoration: uppercase;
+    white-space: nowrap;
             text-decoration: uppercase;
     color: rgb(69, 64, 64)  ;
 }
@@ -845,7 +852,7 @@ body::-webkit-scrollbar{
     line-height: 1;
     color: #D6A8B5;
     font-family: n;
-    font-size: 150px;
+    font-size: 200px;
     font-weight: 500;
     position: absolute;
     top: 40%;
