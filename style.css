@@ -621,7 +621,7 @@ body::-webkit-scrollbar{
     margin: 20px 50px;
     height: 4vw;
     width: 4vw;
-    /* display: none; */
+    display: none;
 }
 #count-down h1{
     font-size: 70px;
